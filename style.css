@@ -11,7 +11,7 @@ h1 {
 }
 
 h2 {
-  font-size: 2.5em;
+  font-size: 2em;
 }
 
 h3 {
@@ -37,17 +37,21 @@ h3 {
 
 /* NOSOTROS */
 .nosotros {
-  display: flex;
-  justify-content: center;
-  padding: 10em 2em;
+  /* display: flex;
+  justify-content: center; */
+  padding: 10em 1.5em;
   color: black;
-  font-size: 1.2em;
+  font-size: 1em;
   background: linear-gradient(to bottom right, #3232ff, pink);
 }
 
-.nosotros .container {
-  max-width: 70em;
-  margin: auto;
+.nosotros {
+  /* display: flex;
+  justify-content: center; */
+
+  /* max-width: 70em; */
+  /* margin: auto; */
+  /* padding: 8em 5em; */
 }
 
 .nosotros h2 {
