@@ -42,7 +42,11 @@ h3 {
   padding: 10em 5em;
   color: #aca4a7;
   font-size: 1em;
-  background: linear-gradient(to bottom right, hsl(0, 0%, 15%), rgb(35, 35, 35));
+  /* text-shadow: 1px 1px 10px black; */
+  background: linear-gradient(to bottom right, hwb(207 8% 44%), #bf00ff);
+}
+.nosotros h2{
+  text-shadow: 1px 1px 10px black;
 }
 
 .nosotros .container{
@@ -202,5 +206,8 @@ h3 {
   .discografia .container {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
+  }
+  .hero .container img{
+    width: 400px;
   }
 }
