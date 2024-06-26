@@ -82,7 +82,7 @@ h3 {
 }
 
 .grammy h2 {
-  font-weight: bold;
+  font-size: 3.1em;
 }
 
 /* PREMIOS */
@@ -127,7 +127,8 @@ h3 {
 }
 
 .tour h2 {
-  font-weight: bolder;
+  /* font-weight: bolder; */
+  font-size: 3.1em;
   padding-bottom: 1em;
 }
 
@@ -156,7 +157,7 @@ h3 {
 }
 
 .discografia h2 {
-  font-size: 3em;
+  font-size: 3.1em;
   padding-left: .7em;
   padding-top: .5em;
   color: chocolate;
