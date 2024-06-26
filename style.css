@@ -41,7 +41,7 @@ h3 {
   justify-content: center;
   padding: 10em 5em;
   color: #aca4a7;
-  font-size: 1em;
+  font-size: 1.5em;
   /* text-shadow: 1px 1px 10px black; */
   background: linear-gradient(to bottom right, hwb(207 8% 44%), #bf00ff);
 }
