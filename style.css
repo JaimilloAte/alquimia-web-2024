@@ -42,7 +42,6 @@ h3 {
   padding: 10em 5em;
   color: #aca4a7;
   font-size: 1.3em;
-  /* text-shadow: 1px 1px 10px black; */
   background: linear-gradient(to bottom right, hwb(207 8% 44%), #bf00ff);
 }
 .nosotros h2{
@@ -52,16 +51,10 @@ h3 {
 
 .nosotros .container{
   padding: 0 1.5em;
-  /* /* display: flex;
-  justify-content: center;
-
-  /* max-width: 70em; */
-  /* margin: auto; */
-  /* padding: 8em 5em; */
 }
 
 .nosotros h2 {
-  color: #ffd951;
+  color: #c2e4fd;
 }
 
 .nosotros p {
@@ -128,7 +121,6 @@ h3 {
 }
 
 .tour h2 {
-  /* font-weight: bolder; */
   font-size: 3.1em;
   padding-bottom: 1em;
 }
